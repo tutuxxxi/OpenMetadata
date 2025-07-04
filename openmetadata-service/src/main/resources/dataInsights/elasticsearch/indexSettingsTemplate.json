@@ -1,7 +1,0 @@
-{
-  "template": {
-    "settings": {
-      "index.lifecycle.name": "di-data-assets-lifecycle"
-    }
-  }
-}

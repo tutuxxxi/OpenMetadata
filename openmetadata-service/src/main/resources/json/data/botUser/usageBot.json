@@ -1,9 +1,0 @@
-{
-  "name": "usage-bot",
-  "roles": [
-    {
-        "name": "UsageBotRole",
-        "type": "role"
-    }
-  ]
-}

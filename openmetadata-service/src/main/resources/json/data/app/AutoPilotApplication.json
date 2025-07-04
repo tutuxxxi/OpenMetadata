@@ -1,9 +1,0 @@
-{
-  "name": "AutoPilotApplication",
-  "displayName": "AutoPilot",
-  "appConfiguration": {
-    "type": "AutoPilotApplication",
-    "active": true,
-    "entityLink": null
-  }
-}
